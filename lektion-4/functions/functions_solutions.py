@@ -25,6 +25,7 @@ def ex_1_1():
     
     return sum_range_num(22, 91)
 
+
 def ex_1_2():
     """
     Exercise 1.2 (1p)

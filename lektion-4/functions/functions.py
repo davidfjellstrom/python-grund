@@ -16,6 +16,9 @@ greet_matilda()
 # define a function
 def greeting():
     print('Hello, world')
+# define a function
+def greeting():
+    print('Hello, World')
 
 # call a function
 greeting()
